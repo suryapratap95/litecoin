@@ -52,6 +52,7 @@ src/qt/bitcoin-qt.files
 src/qt/bitcoin-qt.includes
 
 .deps
+*.dat
 .dirstamp
 .libs
 .vscode
@@ -67,7 +68,7 @@ src/qt/bitcoin-qt.includes
 *.a
 *.pb.cc
 *.pb.h
-*.dat
+
 
 *.log
 *.trs
